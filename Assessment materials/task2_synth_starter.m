@@ -128,3 +128,5 @@ xlim([0, 5000]);
 %
 % See the parameter tables in the Assessment Task Guide (Section 2) for
 % suggested ranges.
+
+function
